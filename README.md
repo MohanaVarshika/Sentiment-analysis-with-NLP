@@ -104,4 +104,4 @@ DecisionTreeClassifier: A machine learning algorithm that splits data into decis
 XGBClassifier: A gradient boosting algorithm that combines the predictions of multiple weak models to produce a stronger model.
 
 OUTPUT:
-
+![Image](https://github.com/user-attachments/assets/ddb989c4-4884-4eb9-a0e3-5902d941d06d)
