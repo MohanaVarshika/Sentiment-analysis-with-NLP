@@ -105,3 +105,5 @@ XGBClassifier: A gradient boosting algorithm that combines the predictions of mu
 
 OUTPUT:
 ![Image](https://github.com/user-attachments/assets/ddb989c4-4884-4eb9-a0e3-5902d941d06d)
+![Image](https://github.com/user-attachments/assets/c7c019b0-59ed-4afc-b17e-97cd809ea211)
+
